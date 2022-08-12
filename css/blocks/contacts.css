@@ -1,0 +1,21 @@
+
+.contacts {
+  font-style: normal;
+  text-align: right;
+}
+
+.contacts__number {
+  font-size: 26px;
+  text-decoration: none;
+  
+}
+
+.contacts__info {
+  font-size: 13px;
+  text-decoration: underline;
+}
+
+.contacts__desc {
+  color: #999;
+  font-size: 11px;
+}
