@@ -19,7 +19,7 @@
   margin-left: 357px;
   margin-top: -397px;
   width: 496px;
-  height: 318px;
+  min-height: 318px;
   background: linear-gradient(60deg, rgba(2,0,36,1) 0%, rgba(143,0,255,1) 0%, rgba(20,140,255,1) 100%);;
   padding: 65px 202px 66px 81px;
   align-items: flex-start;

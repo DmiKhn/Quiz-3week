@@ -1,5 +1,5 @@
 .btn {
-  /* display: inline-block; */
+  display: inline-block;
   background: #8F00FF;
   border-radius: 4px;
   padding: 18px 40px;
@@ -14,6 +14,8 @@
 }
 
 .btn__card {
+  /* margin-top: auto; */
+  display: inline-block;
   color: white;
   background: #8F00FF;
   border-radius: 4px;
@@ -34,8 +36,7 @@
 }
 
 .btn__card--white {
-  display: flex;
-  /* align-items: start; */
+  display: inline-block;
   color: #8F00FF;
   background: white;
   border-style: solid;
@@ -50,8 +51,7 @@
 }
 
 .btn__card--services--white {
-  display: flex;
-  align-items: start;
+  display: inline-block;
   color: #8F00FF;
   background: white;
   border-style: solid;
@@ -71,8 +71,7 @@
 }
 
 .btn__card--services--purple {
-  display: flex;
-  align-items: start;
+  display: inline-block;
   color: #fff;
   background: #8F00FF;
   border-style: solid;
