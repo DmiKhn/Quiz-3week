@@ -25,6 +25,8 @@
 }
 
 .offers__item {
+  display: flex;
+  flex-direction: column;
   background: #fff;
   border-radius: 5px;
   color: black;
